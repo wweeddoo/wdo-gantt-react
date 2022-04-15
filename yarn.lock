@@ -4816,11 +4816,6 @@ fragment-cache@^0.2.1:
   dependencies:
     map-cache "^0.2.2"
 
-frappe-gantt@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/frappe-gantt/-/frappe-gantt-0.3.0.tgz#0c718be2a5b5602be4ceb35ecc2093f9af59bea2"
-  integrity sha512-19rJUJ6UfAN7LPHHhVtYjff0mdyat/mwMW+PAXp5s1211QZ4loi+TkuGgRY9n1r9xAI/VlGoYHUehHdYZge3aQ==
-
 fresh@0.5.2:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/fresh/-/fresh-0.5.2.tgz#3d8cadd90d976569fa835ab1f8e4b23a105605a7"
@@ -7223,10 +7218,10 @@ mkpath@^1.0.0:
   resolved "https://registry.yarnpkg.com/mkpath/-/mkpath-1.0.0.tgz#ebb3a977e7af1c683ae6fda12b545a6ba6c5853d"
   integrity sha1-67Opd+evHGg65v2hK1Raa6bFhT0=
 
-moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+moment@^2.29.2:
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
+  integrity sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
@@ -11292,6 +11287,11 @@ wcwidth@^1.0.1:
   integrity sha1-8LDc+RW8X/FSivrbLA4XtTLaL+g=
   dependencies:
     defaults "^1.0.3"
+
+wdo-gantt@^0.6.2:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/wdo-gantt/-/wdo-gantt-0.6.2.tgz#5f6f55923d2401c7d752449fe32c0e5733af1c6a"
+  integrity sha512-OkWvH8JhRPWD4MNpD1e0pLkoNPOjYcGq0hWFaohQFH2TnDdN2eaWQy7rExdW+ZxumHqA4GD4MhBMmmD+F0OjxA==
 
 web-namespaces@^1.1.2:
   version "1.1.2"

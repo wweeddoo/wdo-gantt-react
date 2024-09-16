@@ -1,3 +1,12 @@
-export { FrappeGantt } from "./FrappeGantt";
-export { Task } from "./Task";
-export { ViewMode } from "./ViewMode";
+import { FrappeGantt } from "./FrappeGantt";
+import { Task } from "./Task";
+import { ViewMode } from "./ViewMode";
+
+
+export {
+    FrappeGantt,
+    Task,
+    ViewMode
+}
+
+export default FrappeGantt

@@ -3,3 +3,5 @@ export const {
   Task,
   ViewMode
 } = require("./dist/frappe-gantt.cjs");
+
+export default FrappeGantt;
